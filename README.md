@@ -1,6 +1,6 @@
-# C++ Programming Playground
+# C++ Programming Basics
 
-[![CI](https://github.com/mgpavankumar/playground/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mgpavankumar/playground/actions/workflows/ci.yml)
+[![CI](https://github.com/mgpavankumar/cpp-programming-basics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mgpavankumar/cpp-programming-basics/actions/workflows/ci.yml)
 
 A small C++ console exercise using standard headers and a warning-clean Hello World program.
 
@@ -17,8 +17,8 @@ A small C++ console exercise using standard headers and a warning-clean Hello Wo
 Install GCC or another C++ compiler. Clone this repository:
 
 ```bash
-git clone https://github.com/mgpavankumar/playground.git
-cd playground
+git clone https://github.com/mgpavankumar/cpp-programming-basics.git
+cd cpp-programming-basics
 ```
 
 ```bash
