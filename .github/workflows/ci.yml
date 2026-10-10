@@ -1,0 +1,13 @@
+name: C++ checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile and check output
+        run: |
+          g++ -std=c++17 -Wall -Wextra -Werror hai.cpp -o hello
+          test "$(./hello)" = "hello world"
