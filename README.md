@@ -1,5 +1,7 @@
 # C++ Programming Playground
 
+[![CI](https://github.com/mgpavankumar/playground/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/mgpavankumar/playground/actions/workflows/ci.yml)
+
 A small C++ console exercise using standard headers and a warning-clean Hello World program.
 
 **Author:** [M. G. Pavan Kumar](https://github.com/mgpavankumar)
@@ -34,7 +36,7 @@ Expected output: `hello world`. On Windows, run `.\hello.exe`.
 
 ## Current behavior and limitations
 
-
+This repository contains one introductory console exercise. It demonstrates compiler setup and standard output.
 
 ## Contributing
 
